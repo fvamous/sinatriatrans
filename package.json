@@ -1,0 +1,22 @@
+{
+  "name": "sinatriatrans",
+  "version": "1.0.0",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@auth/prisma-adapter": "^2.10.0",
+    "@prisma/client": "^6.13.0",
+    "express": "^5.1.0",
+    "next-auth": "^4.24.11"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "prisma": "^6.13.0"
+  }
+}
